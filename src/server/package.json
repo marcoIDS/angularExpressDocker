@@ -1,0 +1,15 @@
+{
+    "name": "hello_node_docker",
+    "version": "1.0.0",
+    "description": "ejemplo docker en node.js",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "author": "Marco A Corttes",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
