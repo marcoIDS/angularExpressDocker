@@ -1,7 +1,7 @@
     
 const express = require('express');
 
-const publicweb = './angular-docker';
+const publicweb = './angularDocker';
 const app = express();
 
 app.use(express.static(publicweb));
